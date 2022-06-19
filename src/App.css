@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.valid {
+  color: green;
+}
+.invalid {
+  color: red;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
